@@ -3,7 +3,7 @@ This repo is for improving my python programming and for some advaned python stu
 
 This proect is doing things with python which takes hours to do for humans
 
-This reop is inspired from the book "doing boring things with python".
+This reop is inspired from the book "automate boring things with python".
 
 This includes stuff like
 
